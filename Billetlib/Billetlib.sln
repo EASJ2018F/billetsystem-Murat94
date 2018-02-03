@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27130.2026
+VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Billetlib", "Billetlib\Billetlib.csproj", "{6678EEBB-7666-4FA3-BCBF-73A4DD54DE46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BilletlibTests", "BilletlibTests\BilletlibTests.csproj", "{7418EA19-BC73-4569-80A6-D26B32EF0056}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{6678EEBB-7666-4FA3-BCBF-73A4DD54DE46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6678EEBB-7666-4FA3-BCBF-73A4DD54DE46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6678EEBB-7666-4FA3-BCBF-73A4DD54DE46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7418EA19-BC73-4569-80A6-D26B32EF0056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7418EA19-BC73-4569-80A6-D26B32EF0056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7418EA19-BC73-4569-80A6-D26B32EF0056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7418EA19-BC73-4569-80A6-D26B32EF0056}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
